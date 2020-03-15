@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+
+$dark: hsl(0, 0%, 12%);
+
+html, body {
+  min-height: 100vh;
+}
+  
+#container {
+  background: $dark; //linear-gradient($violet, $dark-blue)
+  min-height: 100vh;
+}
+
+#quote-box {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#text {
+  font-family: Montserrat, Roboto -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+// #new-quote {
+//   color: $violet;
+// }
