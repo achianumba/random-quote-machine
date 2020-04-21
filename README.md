@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-This project was built in partial completion of FreeCodeCamp's frontend libraries curriculum. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and the stlying is done with `node-sass`.
+This project was built in partial fulfilment of FreeCodeCamp's frontend libraries curriculum. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and the stlying is done with `node-sass`.
 
 ## Available Scripts
 
